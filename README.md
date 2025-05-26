@@ -52,7 +52,7 @@ This project helped me understand and apply various Power BI features and best p
 
 ##  File Contents
 
-- `HR_Analytics_Dashboard.pbix` – The Power BI project file.
+- `HR_Dashboard.pbix` – The Power BI project file.
 - `HR_Dashboard.pdf` - Final dashboard result . 
 - `README.md` – Documentation and explanation of the project.
 
